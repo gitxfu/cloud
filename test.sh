@@ -1,3 +1,4 @@
 #!/bin/bash
 cd ~
-mkdir 2022
+touch test1.txt
+echo test > test2.txt
