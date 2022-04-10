@@ -1,2 +1,4 @@
 #!/bin/bash
-echo test > /home/matuser/testcustom.txt
+cd /home/matuser
+chmod +x mount_fileshare.sh
+./mount_fileshare.sh
