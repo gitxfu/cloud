@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /mnt/matuser
-echo "hello" | sudo tee f.txt
+cd /home/matuser
+echo test > /home/matuser/custom.txt
