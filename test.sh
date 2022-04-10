@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /mnt/modelfiles
-echo test > custom.txt
+cd /mnt/matuser
+echo "hello" | sudo tee f.txt
