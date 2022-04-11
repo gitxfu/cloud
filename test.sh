@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /mnt/modelfiles
-echo test " $(mktemp XXXXXXXX.jpeg)"
+cd /home/matuser
+echo test > /home/matuser/custom.txt
